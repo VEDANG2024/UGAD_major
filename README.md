@@ -1,6 +1,6 @@
 # UGAD_major
-Take Ipynb and run it cell wise sequentially
-After Cell 1 and before Cell 1.5 Restart runtime.
+**Take Ipynb and run it cell wise sequentially
+After Cell 1 and before Cell 1.5 Restart runtime.**
 
 Here is a comprehensive `README.md` file for your GitHub repository. It highlights the novelty of your project (UGAD-Lite), explains the methodology, and provides clear instructions for anyone who wants to replicate your results.
 
